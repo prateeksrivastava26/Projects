@@ -1,6 +1,7 @@
 # Projects
 Github Repository for Data Science and Business Analytics Projects
 
+
 Hello! This is Prateek Srivastava. 
 
 
@@ -10,3 +11,6 @@ data science through coursework and self-study, including proficiency in Python,
 Strong problem-solving skills and ability to analyze complex data sets to provide valuable insights and
 drive business decisions. Seeking a data science position where technical skills and experience can be
 leveraged to contribute to a dynamic and innovative team
+
+
+This is a repository which tells about the work I did in my Data Science course. 
